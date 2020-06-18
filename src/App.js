@@ -33,7 +33,7 @@ class App extends React.Component {
         { title: 'Contact', path: '/contact' }
       ],
       home: {
-        title: 'Be Unstoppable!!',
+        title: 'Be Unstoppable!!!',
         subTitle: 'Data Science projects that make a difference',
         text: 'Checkout my projects below'
       },
